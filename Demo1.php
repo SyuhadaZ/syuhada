@@ -1,5 +1,5 @@
 <?php
-	echo "Welcome to GeeksforGeeks!";
+	echo "Welcome!";
 ?>
 
 
